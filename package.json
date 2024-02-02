@@ -1,0 +1,21 @@
+{
+  "name": "dorkmode",
+  "displayName": "Dorkmode",
+  "description": "A dorkmode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dorkmode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dorkmode-color-theme.json"
+      }
+    ]
+  }
+}
