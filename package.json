@@ -1,8 +1,22 @@
 {
   "name": "dorkmode",
   "displayName": "Dorkmode",
-  "description": "A dorkmode theme",
-  "version": "0.0.1",
+  "description": "A VS Code darkmode theme",
+  "version": "1.0.0",
+  "publisher": "DomGiarrusso",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DomGiarrusso/Dorkmode"
+  },
+  "keywords": [
+    "darkmode",
+    "dark",
+    "theme",
+    "dark theme",
+    "dorkmode",
+    "DomGiarrusso",
+    "domgiarrusso"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
