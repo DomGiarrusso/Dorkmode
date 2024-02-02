@@ -8,6 +8,8 @@
     "type": "git",
     "url": "https://github.com/DomGiarrusso/Dorkmode"
   },
+  "icon": "icons/dorkmodeIcon_128.png",
+  "license": "MIT",
   "keywords": [
     "darkmode",
     "dark",
