@@ -1,7 +1,7 @@
 {
   "name": "dorkmode",
   "displayName": "Dorkmode",
-  "description": "A VS Code darkmode theme",
+  "description": "A Visual Studio Code darkmode theme",
   "version": "1.0.1",
   "publisher": "DomGiarrusso",
   "repository": {

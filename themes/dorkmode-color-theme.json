@@ -2023,6 +2023,7 @@
     "tab.activeBackground": "#010409",
     "tab.activeBorder": "#010409",
     "tab.activeBorderTop": "#ff7b72",
+    "tab.unfocusedActiveBorderTop": "#535c66",
     "tab.inactiveBackground": "#0d1117",
     "tab.inactiveForeground": "#f8f9fa99",
     "tab.hoverBackground": "#010409",
@@ -2125,6 +2126,7 @@
     "toolbar.hoverBackground": "#343a40",
     "keybindingLabel.foreground": "#f8f9fa",
     "keybindingLabel.background": "#343a40",
-    
+    "textPreformat.foreground": "#f8f9fa",
+    "textPreformat.background": "#343a40"
   }
 }

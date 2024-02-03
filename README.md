@@ -2,16 +2,27 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) dark theme
 
+> [!NOTE]
+> Version 1.0.2
+
 ### Install
+
+#### From VS Marketplace or VS Code
+
+1. Click on the `Install` button.
+2. Where the `Install` button was should now be `Set Color Theme` button click on it
+3. A popup should appear showing you your current theme and Dorkmode, select Dorkmode
+
+Tada! you just installed Dorkmode.
 
 #### From GitHub
 
-1. Go to [`VS Marketplace`](https://marketplace.visualstudio.com/).
+1. Go to [`VS Marketplace`](https://marketplace.visualstudio.com/items?itemName=DomGiarrusso.dorkmode).
 2. Click on the `Install` button.
-3. Click the Gear Icon in the bottom left of VS Code
-4. Select `Theme`>`Color Theme`
-    - Shortcut (`Ctrl+K` then `Ctrl+T` on Windows and Linux or `Cmd+K` then `Cmd+T`)
-5. Click on Dorkmode to select theme
+3. Where the `Install` button was should now be `Set Color Theme` button click on it
+4. A popup should appear showing you your current theme and dorkmode, select dorkmode
+
+Tada! you just installed Dorkmode.
 
 ### About the theme
 
@@ -22,8 +33,9 @@ This theme was created because I really liked the [GitHub Dark theme](https://ma
 -   [GitHub's Dark Default theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 -   [Yeoman](https://yeoman.io/) gave me the scaffolding for the project
 -   [Theme Studio for VS Code](https://themes.vscode.one/) helped me quickly design out the main coloring of the theme and visualize it.
-    > [!NOTE]
-    > I added more variables not found part of Theme Studio
+
+> [!NOTE]
+> I added more variables not found part of Theme Studio
 
 ### Support and Suggestions
 
