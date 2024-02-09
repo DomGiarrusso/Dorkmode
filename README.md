@@ -2,10 +2,13 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) dark theme
 
-> [!NOTE]
-> Version 1.0.2
+![Static Badge](https://img.shields.io/badge/1.0.3-blue?label=Version)
+![Static Badge](https://img.shields.io/badge/VS_Code_Theme-blue)
+![Static Badge](https://img.shields.io/badge/Dark_Theme-black)
 
-### Install
+![Preview](/assets/preview.jpg)
+
+## Install
 
 #### From VS Marketplace or VS Code
 
@@ -24,7 +27,7 @@ Tada! you just installed Dorkmode.
 
 Tada! you just installed Dorkmode.
 
-### About the theme
+## Motivations
 
 This theme was created because I really liked the [GitHub Dark theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Though as you may have guessed I had my own issues with the theme. I decided to recreate the theme into my own image. I used many of the same colors found in GitHub's theme but changed into something I find more appealing.
 
@@ -37,9 +40,9 @@ This theme was created because I really liked the [GitHub Dark theme](https://ma
 > [!NOTE]
 > I added more variables not found part of Theme Studio
 
-### Support and Suggestions
+## 🤝 Contributing
 
-If you need any help or suggestions for the theme feel free to reach out. Making a VS Code theme is tedious and I might have missed a variable or some part feels off.
+If you want to contribute or have suggestions for the theme feel free to contact me.
 
 #### Contact
 
