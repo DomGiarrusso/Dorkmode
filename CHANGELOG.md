@@ -6,6 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [1.0.4] - 2024-02-13
+
+### Added
+
+-   `"textCodeBlock.background": "#343a40"` to theme file
+
+### Changed
+
+-   Syntax color for classes/constants to `#59b4ff`
+
 ## [1.0.3] - 2024-02-09
 
 -   updated README
@@ -14,9 +24,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Added
 
--   "textPreformat.foreground": "#f8f9fa" to theme file
--   "textPreformat.background": "#343a40" to theme file
--   "tab.unfocusedActiveBorderTop": "#535c66", to theme file
+-   `"textPreformat.foreground": "#f8f9fa"` to theme file
+-   `"textPreformat.background": "#343a40"` to theme file
+-   `"tab.unfocusedActiveBorderTop": "#535c66"` to theme file
 
 ### Changed
 
