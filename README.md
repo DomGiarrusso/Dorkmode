@@ -2,7 +2,7 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) dark theme
 
-![Static Badge](https://img.shields.io/badge/1.0.3-blue?label=Version)
+![Static Badge](https://img.shields.io/badge/1.0.5-blue?label=Version)
 ![Static Badge](https://img.shields.io/badge/VS_Code_Theme-blue)
 ![Static Badge](https://img.shields.io/badge/Dark_Theme-black)
 
@@ -33,9 +33,9 @@ This theme was created because I really liked the [GitHub Dark theme](https://ma
 
 ### Inspiration and Tools
 
--   [GitHub's Dark Default theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
--   [Yeoman](https://yeoman.io/) gave me the scaffolding for the project
--   [Theme Studio for VS Code](https://themes.vscode.one/) helped me quickly design out the main coloring of the theme and visualize it.
+- [GitHub's Dark Default theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [Yeoman](https://yeoman.io/) gave me the scaffolding for the project
+- [Theme Studio for VS Code](https://themes.vscode.one/) helped me quickly design out the main coloring of the theme and visualize it.
 
 > [!NOTE]
 > I added more variables not found part of Theme Studio
