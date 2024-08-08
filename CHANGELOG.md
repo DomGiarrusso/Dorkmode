@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [1.0.6] - 2024-08-08
+
+### Changed
+
+- Fixed issue with theme variables needing transparency
+- Updated the title bar active and inactive colors. (Flipped them)
+- Updated minimap with some transparency.
+- Updated `"editorCodeLens.foreground"` to better match the rest of theme.
+
 ## [1.0.5] - 2024-03-27
 
 ### Changed

@@ -2,7 +2,7 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) dark theme
 
-![Static Badge](https://img.shields.io/badge/1.0.5-blue?label=Version)
+![Static Badge](https://img.shields.io/badge/1.0.6-blue?label=Version)
 ![Static Badge](https://img.shields.io/badge/VS_Code_Theme-blue)
 ![Static Badge](https://img.shields.io/badge/Dark_Theme-black)
 
@@ -23,7 +23,7 @@ Tada! you just installed Dorkmode.
 1. Go to [`VS Marketplace`](https://marketplace.visualstudio.com/items?itemName=DomGiarrusso.dorkmode).
 2. Click on the `Install` button.
 3. Where the `Install` button was should now be `Set Color Theme` button click on it
-4. A popup should appear showing you your current theme and dorkmode, select dorkmode
+4. A popup should appear showing you your current theme and Dorkmode, select Dorkmode
 
 Tada! you just installed Dorkmode.
 
